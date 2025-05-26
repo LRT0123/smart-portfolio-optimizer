@@ -3,6 +3,8 @@
 A Streamlit-powered financial dashboard designed for retail investors.  
 It allows users to analyze portfolios, optimize asset allocation, visualize risks, and simulate future performance.
 
+Link: https://smart-portfolio-optimizer-lrt.streamlit.app/
+
 ---
 
 ## 🚀 Features
